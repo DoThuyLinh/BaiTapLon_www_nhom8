@@ -1,0 +1,15 @@
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\obj\Debug\Service.Interfaces.csprojAssemblyReference.cache
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\obj\Debug\Service.Interfaces.csproj.CoreCompileInputs.cache
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\bin\Debug\Service.Interfaces.dll.config
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\bin\Debug\Service.Interfaces.dll
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\bin\Debug\Service.Interfaces.pdb
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\bin\Debug\EntityFramework.dll
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\bin\Debug\EntityFrameworks.dll
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\bin\Debug\EntityFrameworks.pdb
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\bin\Debug\EntityFrameworks.dll.config
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\bin\Debug\EntityFramework.xml
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\obj\Debug\Service.Interfaces.csproj.CopyComplete
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\obj\Debug\Service.Interfaces.dll
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Service.Interfaces\obj\Debug\Service.Interfaces.pdb

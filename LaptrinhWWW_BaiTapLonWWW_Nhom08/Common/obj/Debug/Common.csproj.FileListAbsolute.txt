@@ -1,0 +1,12 @@
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Common\bin\Debug\Common.dll.config
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Common\bin\Debug\Common.dll
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Common\bin\Debug\Common.pdb
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Common\bin\Debug\EntityFramework.dll
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Common\bin\Debug\EntityFramework.xml
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Common\obj\Debug\Common.csproj.CopyComplete
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Common\obj\Debug\Common.dll
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Common\obj\Debug\Common.pdb
+D:\study\HK6\WWW\btl\www_ver6\BaiTapLon_WWW\LaptrinhWWW_BaiTapLonWWW_Nhom08\Common\obj\Debug\Common.csprojAssemblyReference.cache
